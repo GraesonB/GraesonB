@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @GraesonB
-- I’ve recently become interested in machine learning and data science related topics, as well as video game development as a hobby.
-- I’m also currently working through some Coursera specs.
+- I develop indie games and enjoy learning about deep learning.
 - 📫 graesonbergen@gmail.com
