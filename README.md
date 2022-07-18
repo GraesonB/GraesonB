@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GraesonB
-- I develop indie games and enjoy learning about deep learning.
+- I enjoy all types of programming. Lately I've been interested in deep learning, web development, and making games.
 - 📫 graesonbergen@gmail.com
